@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: ed811d183b2620a4faefe142683e6a4b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noto Sans CJK TC
+  fontNames:
+  - Noto Sans CJK TC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dfc222d47e6514a4a8864f9211ac7118, type: 3}
+  - {fileID: 12800000, guid: 66e263da82e6fb4409897ec923a82a3f, type: 3}
+  - {fileID: 12800000, guid: b56c1bbd6b2f7cf45a20f788701aedb3, type: 3}
+  - {fileID: 12800000, guid: 155f665fa924a2b42afcc946c2f4eeaa, type: 3}
+  - {fileID: 12800000, guid: 3412c95f296e5794895838eacffcdbc3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

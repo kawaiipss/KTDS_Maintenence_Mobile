@@ -1,0 +1,99 @@
+<?xml version ="1.0" encoding="utf-8" standalone="yes"?>
+<PartsInfo>
+  <InfoDetail>
+    <InfoText>
+      [주요 기능]
+
+      시스템의 전반적인 제어
+
+      - 유니트 관리
+      - 경보 처리
+      - 성능정보 수집 및 관리
+      - 시스템 정보 관리
+    </InfoText>
+  </InfoDetail>
+  
+  <InfoDetail>
+    <InfoText>
+      [주요 기능]
+      S1601U는 Stm-16 의 1Port Unit의 약자로써
+      STM-16급 (2.5Gbps) 1포트의 광 인터페이스를
+      제공하는 유니트이다.
+       
+      광 접속은 SFP(Small Form-Factor Pluggable)
+      타입의 LC connector를 사용하였으며,
+      ITU-T G.957의 규격을 만족하며, 유니트 타입에
+      따라 다양한 거리에 만족할 수 있다.
+    </InfoText>
+  </InfoDetail>
+  
+  <InfoDetail>
+    <InfoText>
+      [주요 기능]
+      TSI60U 는 BMSP 장비에 실장되는 TSI용
+      유니트이다.  BMSP 에 실장되는 모든
+      유니트(E1/T1/DS3/STM1/STM4/STM16/EOS)와
+      TU11/TU12/AU3/AU4/AU44C 급 TSI를 수행한다.
+    </InfoText>
+  </InfoDetail>
+  
+  <InfoDetail>
+    <InfoText>
+      [주요 기능]
+      BL2SU는 BMSP의 L2 Switching Unit의 약자로써
+      확장유니트(FTXU-FX/TX) 실장시 최대 Gigabit
+      2port, 100Base FX/TX 16 port까지 서비스를
+      제공하는 유니트이다.
+       
+      물리적 접속은 전면 및 셀프 후면의 SUB UNIT
+      (TX-AUX)를 통하여 다양한 서비스가
+      가능하도록 구현되어 있다.
+    </InfoText>
+  </InfoDetail>
+  
+  <InfoDetail>
+    <InfoText>
+      [주요 기능]
+      본 유니트는 STM-1급(S0104U)의 신호를
+      광으로부터 입력받아 전기적 신호로 변환 한 후
+      SDH 프레임과 오버헤드를 처리하고,
+      ITU-T G.707의 SDH 다중화 기술을 적용하여
+      데이터를 TSI40U로 보내는 기능과 그 역기능을
+      수행한다.
+    </InfoText>
+  </InfoDetail>
+
+  <InfoDetail>
+    <InfoText> RPR 인터페이스를 지원하는 유니트  
+         # 유니트당 양방향 VC4-8v VCAT 기능 제공 
+         (단, 2.5G 슬롯을 사용할 경우에만 8v까지 매핑이 가능함)
+
+      EMR0
+       - 기본 제공 포트 수  
+         # GbE 인터페이스 : 1포트  
+         # 100B TX 인터페이스 : 4포트
+       - 인터페이스 유니트 추가 실장 시  
+         # 100B TX 인터페이스(ETF8) : 8포트 또는 
+         # 100B FX 인터페이스(EFF8) : 8포트 추가 제공가능
+       - 전송거리 10 Km
+       - 실장가능 슬롯  : 1~6, 13~16 (총10개 슬롯)
+    </InfoText>
+  </InfoDetail>
+
+  <InfoDetail>
+    <InfoText>  - System Control and Communication Unit
+      - 제어모듈(Control module) 
+      # 각 NE들에 대한 구성 및 관리, 경보 및 성능Data의 수집 및 감시기능
+      # 중요데이터에 대한 Backup 기능을 수행
+      - 통신모듈(Communication module) 
+      # 망 관리를 위한 10/100M Ethernet 인터페이스를 제공. 
+      # 외부장치를 제어하기 위한 OAM 인터페이스를 제공
+      - 오버헤드 제어모듈(Overhead Processor module) 
+      # Serial1 ~ 4등의 오버헤드 바이트를 추출 및 전송 
+      # 타합선 및 Serial 1 ~ 4 까지의 서비스 채널도 제공
+      - 전원감시모듈(Power monitoring module) 
+      # 전원입력 -48V에 대한 감시기능, FAN 경보검출 및 관리 # AUX 유니트의 +3.3V 전원감시 기능
+    </InfoText>
+  </InfoDetail>
+  
+</PartsInfo>

@@ -1,0 +1,33 @@
+[
+  {
+    "officeName": "가경국사",
+    "instOfficeName": "가경국사",
+    "instlocation": "",
+    "neUsgStateDesc": "사용(정상)",
+    "nescode": "F33774419",
+    "instdt": "2018-10-08",
+    "mainDescription": "스위치",
+    "mfrDt": "",
+    "splyDesc": "코어세스 CORECESS",
+    "trapComm": "",
+    "neAlias": "FZZ1G011",
+    "snmpVer": "SNMPVer2",
+    "neUsgDesc": "GTTH(10)-OLT SPLITTER 스위치(가입자수용)",
+    "constOrg": "엔지니어/사업지원",
+    "pOfficeName": "",
+    "chkWide": "N",
+    "pNescode": "",
+    "pPort": "",
+    "muxPOffice1G": "가경국사",
+    "muxPNe1G": "FZZ1(YOUFM0017)",
+    "muxPPort1G": "010101003",
+    "muxPOffice10G": "가경국사",
+    "muxPNe10G": "FZZ1(YOUFM0017)",
+    "muxPPort10G": "010103002",
+    "neType": "FTTH",
+    "addr": "충청북도 청주시 흥덕구 가경동 1171번지 0호",
+    "detailAddr": "",
+    "instBldg": "가경지점",
+    "roadAddr": "충청북도 청주시 흥덕구 가경로161번길 20  (가경동,가경지점)"
+  }
+]

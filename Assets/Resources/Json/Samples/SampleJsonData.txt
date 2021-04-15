@@ -1,0 +1,23 @@
+﻿[
+  {
+    "nescode": "SLSC06749",
+    "officeName": "\uC11C\uCD08\uAD6D\uC0AC",
+    "instlocation": "\uC11C\uCD08",
+    "neAlias": "MSPP-0225-01",
+    "neClass": "\uD1B5\uD569\uD615\uC7A5\uCE58/MSPP",
+    "modelName": "HUAWEI/HUA_OptiX OSN-3500",
+    "equipArrangeDetail": 
+    {
+      "system": "01/01/05/01/001",
+      "unitName": "SL16A",
+      "transciever": "\uC1A1\uC2E0",
+      "usingState": "\uC0AC\uC6A9(\uC815\uC0C1)",
+      "carrierTransfer": "\uC11C\uCD08-GG\uC131\uBAA8\uBCD1\uC6D0QQ-25-0001"
+    },
+    "neType": "MSPP",
+    "addr": "\uC11C\uC6B8\uD2B9\uBCC4\uC2DC \uC11C\uCD08\uAD6C \uBC29\uBC30\uB3D9 1001\uBC88\uC9C0 1\uD638",
+    "detailAddr": "",
+    "instBldg": "\uC11C\uCD08\uC9C0\uC0AC",
+    "roadAddr": "\uC11C\uC6B8\uD2B9\uBCC4\uC2DC \uC11C\uCD08\uAD6C \uD6A8\uB839\uB85C(\uBC29\uBC30\uB3D9,\uC11C\uCD08\uC9C0\uC0AC)"
+  }
+]

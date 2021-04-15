@@ -1,0 +1,17 @@
+<?xml version ="1.0" encoding="utf-8" standalone="yes"?>
+<UnitSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Unit>
+    <Name>마린</Name>
+    <HP>100</HP>
+    <ATK>10</ATK>
+    <DEF>5</DEF>
+    <EVD>5</EVD>
+  </Unit>
+  <Unit>
+    <Name>메딕</Name>
+    <HP>50</HP>
+    <ATK>0</ATK>
+    <DEF>1</DEF>
+    <EVD>1</EVD>
+  </Unit>
+</UnitSet>

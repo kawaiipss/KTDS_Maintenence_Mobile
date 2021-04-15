@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/GetDataJson.unity
+    guid: 7357911ce48334a4fa6886477e308b76
+  - enabled: 0
+    path: Assets/Scenes/URLcommunication.unity
+    guid: e8f13d122a575e245b4b76b81f1f9c56
+  - enabled: 0
+    path: Assets/Scenes/ContentsPosition.unity
+    guid: dd189858c81020a4ea57bbb5a8416641
+  - enabled: 1
+    path: Assets/Scenes/Mobile_GigaVison.unity
+    guid: b82cff6f55df091468ff7e13509d17de
+  - enabled: 0
+    path: Assets/Scenes/sample01.unity
+    guid: 0efd066f0e1c1d84db7312bd7396b7c4
+  m_configObjects: {}

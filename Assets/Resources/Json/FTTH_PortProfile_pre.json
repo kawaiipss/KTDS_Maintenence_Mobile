@@ -1,0 +1,12 @@
+[
+  {
+    "chkProfileRslt": "",
+    "portList": {
+      "portalias": [ "FZZ1G011-1001", "FZZ1G011-1002", "FZZ1G011-1003", "FZZ1G011-1004", "FZZ1G011-1005" ],
+      "svctypecodedesc": [ "기가 인터넷 최대 1G", "기가 인터넷 최대 500M" ],
+      "chkdt": "",
+      "chksvcprdname": "",
+      "chkbtnyn": [ "N", "Y", "Y", "N", "N" ]
+    }
+  }
+]
